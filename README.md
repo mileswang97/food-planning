@@ -1,2 +1,2 @@
 # food-planning
- plan weekly or bi-weekly diets, with recipes
+ plan comprehensive weekly or bi-weekly diets, with recipes
