@@ -19,10 +19,17 @@
 
 7. Host this on github website domain in a user-friendly and more visually appealing way
 8. Add ways to create and save profiles with preferences
+9. Save peoples' search queries for food planning, and what they're ultimately satisfied with (ratings to recipes or food plans?)
+	Note: This might be a possible avenue for profit: tracking user decisions that can then inform sellers how to stock.
 
 ### Automation
 
-9. Write a script that randomizes foods in such a way that dietary quotas are met
-10. Modify such a script to take into account preferences, allergies, and otherwise "no-go" foods (maybe they're unavailable locally)
-11. Find a way to balance such priorities in step 10 with some exploration
-12. Suggest recipes using foods in one's diet plan that covers their groceries from the recipe database
+10. Write a script that randomizes foods in such a way that dietary quotas are met
+11. Modify such a script to take into account preferences, allergies, and otherwise "no-go" foods (maybe they're unavailable locally)
+12. Find a way to balance such priorities in step 10 with some exploration
+13. Suggest recipes using foods in one's diet plan that covers their groceries from the recipe database
+
+### Additional Side-Features
+
+a. Pricing feature, estimation of how much the diet will cost in your region
+b. Food handling feature (what foods should be stored in the freezer? fridge? shelf?)
