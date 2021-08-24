@@ -31,5 +31,5 @@
 
 ### Additional Side-Features
 
-a. Pricing feature, estimation of how much the diet will cost in your region
-b. Food handling feature (what foods should be stored in the freezer? fridge? shelf?)
+14. Pricing feature, estimation of how much the diet will cost in your region
+15. Food handling feature (what foods should be stored in the freezer? fridge? shelf?)
