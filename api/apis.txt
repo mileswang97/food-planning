@@ -1,0 +1,7 @@
+potentially good APIs to pull information from:
+
+1. github.com/openfoodfacts/openfoodfacts-python
+UI : https://world.openfoodfacts.org/
+
+Should include information about food "products" with ingredients, allergens, nutrition facts.
+Also includes ratings like "Nutri-Score" for nutritional quality, or "Nova" for amount of processing in foods.
